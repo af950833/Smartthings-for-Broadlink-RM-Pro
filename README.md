@@ -14,17 +14,26 @@ You can controll the Broadlink device with this handler at the Smarttings using 
 
 
 Copy the contents(Broadlink Virtual Switch.groovy) and create new device handler at Smartthings IDE web.
+
 Paste it to 'From code' and save.
 (If you are using the RM Bridge, you have to change the both methods from "POST" to "GET" in the code for On and Off)
+
 Publish it 'for me'
+
 Go to my device.
+
 Create a device with '+ New Device'
+
 Input Name, Label, Device Network ID as you want.
+
 Select the 'Broadlink Virtual Switch' at the Type
+
 Select the Location and Hub then click the 'Create'
 
 Click the 'Preference(edit)'
+
 You can input the information about the devices what you want to control
+
 
 If you are using the RM Plugin,
 Usually ON and Off command URI is like the below.
