@@ -37,8 +37,6 @@ You can input the information about the devices what you want to control
 
 ---If you are using the RM Plugin---
 
-As I mentioned, you have to change the method in the handler from "POST" to "Get"
-
 Usually ON and Off command URI is like the below.
 
 http://192.168.0.33:9876/send?deviceMac=aabbccddeeff&codeId=11 (If you don't set up a Authentication)
@@ -64,6 +62,8 @@ Entity ID of Body Data for HA(Required for HA) : Leave it as blank
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ---If your are using the RM Bridge---
+
+As I mentioned, you have to change the method in the handler from "POST" to "Get"
 
 Usually ON and Off command URI is like the below.
 
