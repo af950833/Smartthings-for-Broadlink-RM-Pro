@@ -109,7 +109,7 @@ Port(Required for all) : 8123
 
 On Path(Required for all) : /api/services/switch/turn_on?api_password=password
 
-Off Path(Optional) : /api/services/switch/turn_on?api_password=password (If you don't want to use the off command, you can leave it as blank)
+Off Path(Optional) : /api/services/switch/turn_off?api_password=password (If you don't want to use the off command, you can leave it as blank)
 
 Entity ID of Body Data for HA(Required for HA) : switch.livingroom_light
 
