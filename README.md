@@ -2,11 +2,16 @@
 Smartthings Handler for Broadlink RM Pro using RM Plugin, RM Bridge &amp; Home Automation
 
 I refered to the below.
+
 http://thingsthataresmart.wiki/index.php?title=URI_Switch
+
 https://github.com/beckyricha/Broadlink-RM-SmartThings-Alexa
 
+
 If you set up one of RM Plugin(with HTTP Bridge), RM Bridge and HA(Home Assistant), you can controll the Broadlink RM Pro with HTTP POST or GET method.
+
 You can controll the Broadlink device with this handler at the Smarttings using the API. This hadler doesn't use a smartapp and you can input device URI information at a PC and your phone.(I recommand you to use the PC)
+
 
 Copy the contents(Broadlink Virtual Switch.groovy) and create new device handler at Smartthings IDE web.
 Paste it to 'From code' and save.
