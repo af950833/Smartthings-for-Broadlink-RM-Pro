@@ -91,7 +91,7 @@ Attention : A blank must not be in the path. You can use a underscore.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
----If you are using the Home Assistnat---
+---If you are using the Home Assistant---
 
 Usually ON and Off command URI is like the below.
 
