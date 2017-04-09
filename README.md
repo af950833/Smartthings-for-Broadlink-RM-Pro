@@ -10,7 +10,7 @@ https://github.com/beckyricha/Broadlink-RM-SmartThings-Alexa
 
 If you set up one of RM Plugin(with HTTP Bridge), RM Bridge and HA(Home Assistant), you can controll the Broadlink RM Pro with HTTP POST or GET method.
 
-You can controll the Broadlink device with this handler at the Smarttings using the API. This hadler doesn't use a smartapp and you can input device URI information at a PC and your phone.(I recommand you to use the PC)
+You can controll the Broadlink device with this handler at the Smarttings using the API. This hadler doesn't use a smartapp and you can input device URI information at a PC or your phone.(I recommand you to use the PC)
 
 
 
