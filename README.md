@@ -90,3 +90,30 @@ Entity ID of Body Data for HA(Required for HA) : Leave it as blank
 Attention : A blank must not be in the path. You can use a underscore.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+---If you are using the Home Assistnat---
+
+Usually ON and Off command URI is like the below.
+
+http://192.168.0.4:8123/api/services/switch/turn_on?api_password=password
+
+http://192.168.0.4:8123/api/services/switch/turn_off?api_password=password
+
+body data : {"entity_id","switch.livingroom_light"}
+
+ID & PW for RM Plugin or RM Bridge(Optional) : Leave it as Blank
+
+IP for RM Plugin or RM Bridge or HA(Required for all) : 192.168.0.4
+
+Port(Required for all) : 8123
+
+On Path(Required for all) : /api/services/switch/turn_on?api_password=password
+
+Off Path(Optional) : /api/services/switch/turn_on?api_password=password (If you don't want to use the off command, you can leave it as blank)
+
+Entity ID of Body Data for HA(Required for HA) : switch.livingroom_light
+
+Attention : You have to input only entity id like script.audio_on, switch.kitchen_light, switch.bathroom_light
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
