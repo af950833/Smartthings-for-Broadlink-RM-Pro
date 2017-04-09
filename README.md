@@ -34,9 +34,10 @@ Select the Location and Hub then click the 'Create'
 Click the 'Preference(edit)'
 
 You can input the information about the devices what you want to control
-.
-.
-.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
 ---If you are using the RM Plugin---
 
 Usually ON and Off command URI is like the below.
@@ -57,4 +58,4 @@ Off Path(Optional) : /send?deviceMac=aabbccddeeff&codeId=12 (If you don't want t
 
 Entity ID of Body Data for HA(Required for HA) : Leave it as blank
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
