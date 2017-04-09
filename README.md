@@ -21,7 +21,7 @@ Select the Location and Hub then click the 'Create'
 Click the 'Preference(edit)'
 You can input the information about the devices what you want to control
 
-<If you are using the RM Plugin>
+If you are using the RM Plugin,
 Usually ON and Off command URI is like the below.
 http://192.168.0.33:9876/send?deviceMac=aabbccddeeff&codeId=11 (If you don't set up a Authentication)
 http://yourID:yourPassword@192.168.0.33:9876/send?deviceMac=aabbccddeeff&codeId=11 (If you set up a Authentication)
