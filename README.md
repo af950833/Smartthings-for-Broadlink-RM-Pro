@@ -71,7 +71,7 @@ http://192.168.0.33:7474/code/refrigeratoron (If you don't set up a Authenticati
 
 http://192.168.0.33:7474/code/refrigeratoroff
 
-http://yourID:yourPassword@192.168.0.33:7474/code/refrigeratoron (If you don't set up a Authentication)
+http://yourID:yourPassword@192.168.0.33:7474/code/refrigeratoron (If you set up a Authentication)
 
 http://yourID:yourPassword@192.168.0.33:7474/code/refrigeratoroff
 
