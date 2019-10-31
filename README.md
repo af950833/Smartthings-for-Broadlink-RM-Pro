@@ -1,4 +1,8 @@
 # Smartthings-for-Broadlink-RM-Pro
+<2019.10.31>
+Home Assistant discontinued the api_password from version 0.101.0
+So it wokrs with Home Assistant below 0.100.3
+
 Smartthings Handler for Broadlink RM Pro using RM Plugin, RM Bridge &amp; Home Assistant
 
 I refered to the below.
